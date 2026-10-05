@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cby2k
-- 👀 I’m interested in Ai and Virtual Production in film, tv and games. 
-- 🌱 I’m currently learning as much as possible!
-- 💞️ I’m looking to collaborate on custom projects. 
+- 👀 I’m passionate Ai and Virtual Production in film, tv and games. 
+- 🌱 I’m currently working on a range of products with creative technologists.
+- 💞️ I’m looking to collaborate on custom projects with creative specialists.
 - 📫 How to reach me: hello@chrisbird.net
 - 📫 How to reach me: chris@b-2.co
 - 📫 How to reach me: chris.bird@showpixelflow.com
