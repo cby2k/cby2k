@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @cby2k
-- 👀 I’m passionate Ai and Virtual Production in film, tv and games. 
+- 👀 I’m passionate Ai and Virtual Production in film, tv and games.
+- 👀 I’m and expert in Media & Entertainment. 
 - 🌱 I’m currently working on a range of products with creative technologists.
 - 💞️ I’m looking to collaborate on custom projects with creative specialists.
 - 📫 How to reach me: hello@chrisbird.net
