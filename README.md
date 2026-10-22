@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on custom projects with creative specialists.
 - 📫 How to reach me: hello@chrisbird.net
 - 📫 How to reach me: chris@b-2.co
-- 📫 How to reach me: chris.bird@showpixelflow.com
 
 <!---
 cby2k/cby2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
